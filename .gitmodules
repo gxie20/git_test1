@@ -1,0 +1,3 @@
+[submodule "git_test1_sub"]
+	path = git_test1_sub
+	url = https://github.com/gxie20/git_test1_sub.git
